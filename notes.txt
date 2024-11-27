@@ -1,0 +1,5 @@
+What do I want this to start off as?
+
+- I would like to be able to define a list of personas
+- I would like to be able to tie these personas together some how (like a DAG)
+- I would like to provide a prompt and workflow (above) and see the output, and maybe the inbetween steps
